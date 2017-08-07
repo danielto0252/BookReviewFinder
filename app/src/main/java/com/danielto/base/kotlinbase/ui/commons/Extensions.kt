@@ -1,4 +1,4 @@
-package com.danielto.base.kotlinbase.commons
+package com.danielto.base.kotlinbase.ui.commons
 
 import android.view.LayoutInflater
 import android.view.View
