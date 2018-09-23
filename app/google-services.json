@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "282326358734",
+    "firebase_url": "https://book-review-finder.firebaseio.com",
+    "project_id": "book-review-finder",
+    "storage_bucket": "book-review-finder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282326358734:android:ab8df63a2aa04635",
+        "android_client_info": {
+          "package_name": "com.danielto.bookreviewfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282326358734-4run2chljnnqbh9jdr2qjchf03eermcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTx8stQGHr5tWUDh4PMsgz0_1ANokCSRc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

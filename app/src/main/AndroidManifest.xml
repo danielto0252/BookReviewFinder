@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.danielto.base.kotlinbase">
+  package="com.danielto.bookreviewfinder">
 
   <application
-    android:name=".ui.MyApplication"
+    android:name="com.danielto.bookreviewfinder.ui.MyApplication"
     android:allowBackup="true"
     android:icon="@mipmap/ic_launcher"
     android:label="@string/app_name"
